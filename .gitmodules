@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "multilateral"]
+	path = multilateral
+	url = https://github.com/mjstansfi/multilateral
+	shallow = true
+	registered = true
